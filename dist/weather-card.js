@@ -467,7 +467,7 @@ class WeatherCard extends LitElement {
         display: block;
         text-align: center;
         color: var(--primary-text-color);
-        border-right: 0.1em solid var(--disabled-color);
+        border-right: none;
         line-height: 2;
         box-sizing: border-box;
       }
